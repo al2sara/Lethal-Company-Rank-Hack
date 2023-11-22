@@ -9,3 +9,6 @@ How to use it?
 - Close the software
 - Open the game
 - Profit!
+
+Note: I used Leaf.xNet for substring method, sorry for the laziness!
+Note 2: This software wasn't intended to be published on github, so code might be a bit "junky".
