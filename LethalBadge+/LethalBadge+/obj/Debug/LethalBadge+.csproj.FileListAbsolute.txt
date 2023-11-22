@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\bin\Debug\LethalBadge+.exe.config
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\bin\Debug\LethalBadge+.exe
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\bin\Debug\LethalBadge+.pdb
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.exe
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.pdb
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\bin\Debug\Leaf.xNet.dll
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\bin\Debug\Leaf.xNet.xml
+C:\Users\Administrator\source\repos\LethalBadge+\LethalBadge+\obj\Debug\LethalBadge+.csproj.CopyComplete
